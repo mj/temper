@@ -1,0 +1,11 @@
+This is a patched version of the Linux driver for the TEMPer USB thermometer
+available at
+
+http://relavak.wordpress.com/2009/10/17/temper-temperature-sensor-linux-driver/
+
+The manufacturer of TEMPer tends to put different parts into their
+thermometers depending on their revision, so it often takes a bit of
+adjusting to get the driver to produce plausible results.
+
+Please note that YMMV and that the version available here may not lead to
+sufficient results for your thermometer.
